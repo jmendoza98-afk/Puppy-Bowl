@@ -1,0 +1,7 @@
+body { font-family: Arial, sans-serif; margin: 20px; }
+    .container { display: flex; gap: 40px; }
+    .roster, .details { flex: 1; }
+    .roster div, .details div { border: 2px dashed black; padding: 10px; margin: 5px 0; cursor: pointer; }
+    img { max-width: 200px; }
+    form { margin-top: 40px; border-top: 1px solid #ccc; padding-top: 20px; }
+    input { display: block; margin: 10px 0; }
